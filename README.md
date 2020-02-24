@@ -67,6 +67,6 @@ Code transparently. In case if you use any API/code from internet, please mentio
 
 Front + Admin
 
-#Admin Login Credentials:
+#Admin Login Credentials:<br>
 Username: ynandan55@gmail.com<br>
 password: 123456
