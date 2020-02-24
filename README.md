@@ -65,8 +65,10 @@ This Application will be evaluated on the following based on this priority.
 Note:
 Code transparently. In case if you use any API/code from internet, please mention upfront or else please do not use anything from internet.
 
-Front + Admin
+#Front + Admin Panel<br>
+#database cricket_yadu.sql attached in root of folder
 
 #Admin Login Credentials:<br>
 Username: ynandan55@gmail.com<br>
 password: 123456
+
